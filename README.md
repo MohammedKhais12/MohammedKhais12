@@ -65,16 +65,16 @@ I'm actively practicing **Data Structures & Algorithms using C++** and solving p
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://auth.geeksforgeeks.org/user/mohammedkhais">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
 <a href="https://www.codechef.com/users/mohammedkhais">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerearth.com/@mohammedkhais201">
 <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/mohammedkhais">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
