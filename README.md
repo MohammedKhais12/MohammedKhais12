@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Khais</h1>
 
 <p align="center">
-  <img src="./student-coding.png" alt="Student coding" width="450">
+  <img src="./student-coding.png" alt="Student coding" width="500">
 </p>
 
 <h3 align="center">
