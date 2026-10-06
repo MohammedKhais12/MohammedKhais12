@@ -1,146 +1,188 @@
 <h1 align="center">Hi 👋, I'm Mohammed Khais</h1>
 
 <h3 align="center">
-  🚀 Aspiring Software Engineer | Web Developer | DSA Learner
+  🚀 Aspiring Software Engineer | Web Developer | DSA Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://github.com/MohammedKhais12">
-    <img src="https://komarev.com/ghpvc/?username=MohammedKhais12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/MohammedKhais12?tab=followers">
-    <img src="https://img.shields.io/github/followers/MohammedKhais12?label=Followers&style=for-the-badge" alt="GitHub Followers" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MohammedKhais12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/MohammedKhais12?label=Followers&style=for-the-badge" alt="GitHub Followers" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Mohammed Khais**, a passionate developer from India who enjoys building things, solving problems, and continuously learning new technologies.
+I'm **Mohammed Khais**, a passionate developer from India focused on becoming a strong **Software Engineer**.
 
-* 🔭 Currently focused on **DSA & Web Development**
-* 🌱 Learning **Data Structures, Algorithms, Node.js, Express & EJS**
+I enjoy solving problems, building applications, and understanding how technologies work from the fundamentals.
+
+* 🔭 Currently working on **DSA & Web Development**
+* 🌱 Currently learning **Data Structures, Algorithms & Backend Development**
+* 💻 Building my skills with **C++, JavaScript, Node.js & Express**
 * 🧠 Interested in **Software Engineering & Generative AI**
-* 🚀 Planning to start building **Map Saver** soon
+* 🚀 Planning to start **Map Saver** soon
 * 🤝 Open to collaborating on interesting projects
-* 💡 I enjoy learning by **building projects and solving problems**
-* ⚡ Fun fact: **I'm a deep learner — I like understanding how things work, not just using them**
+* ⚡ Fun fact: **I'm a deep learner — I like understanding things rather than just memorizing them**
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-```text
-DSA                 ███████████████░░░░░  75%
-Web Development     █████████████░░░░░░░  65%
-Backend Development ██████████░░░░░░░░░░  50%
-Generative AI       ██████░░░░░░░░░░░░░░  30%
-```
-
-### 📚 Currently Learning
-
-* 🧩 Data Structures & Algorithms
-* 🌐 Full-Stack Web Development
-* ⚙️ Node.js & Express.js
-* 🖥️ EJS & Backend Development
-* 🗄️ SQL & Databases
-* 🤖 Generative AI
-* 🔧 Git & GitHub
+| Area               | Currently Learning           |
+| ------------------ | ---------------------------- |
+| 🧩 DSA             | Data Structures & Algorithms |
+| 🌐 Web Development | Frontend + Backend           |
+| ⚙️ Backend         | Node.js, Express, EJS        |
+| 🗄️ Database       | MySQL, MongoDB               |
+| 🤖 AI              | Generative AI                |
+| 🔧 Tools           | Git & GitHub                 |
 
 ---
 
-## 🚀 Project I'm Planning
+# 🧩 DSA Journey
 
-### 🗺️ Map Saver
+I'm actively practicing **Data Structures & Algorithms using C++** and solving problems on coding platforms.
 
-> A project I'm planning to build for saving and organizing useful locations/maps.
-
-**Status:** 🟡 Planning / Coming Soon
-
-🔗 [Map Saver Repository](https://github.com/MohammedKhais12/MapSaver)
-
-More details and development progress will be added as the project starts.
-
----
-
-# 🧠 DSA Journey
-
-I'm actively practicing **Data Structures & Algorithms** using C++.
-
-### Topics I'm Working On
+### 📚 Topics
 
 * Arrays
+* Strings
 * Binary Search
 * Sliding Window
 * Linked Lists
-* Recursion & Backtracking
+* Recursion
+* Backtracking
 * Bit Manipulation
 * Binary Trees
-* Sorting & Searching
+* Sorting
+* Searching
 * Stack & Queue
 * Hashing
 * Graphs
 * Dynamic Programming
 
-### 🏆 Coding Profiles
+### 💻 DSA Platforms
 
 <p align="left">
-  <a href="https://leetcode.com/mohammedkhais">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/mohammedkhais">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://www.hackerearth.com/@mohammedkhais201">
-    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/mohammedkhais">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
+
+<a href="https://leetcode.com/mohammedkhais">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/mohammedkhais">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerearth.com/@mohammedkhais201">
+<img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/mohammedkhais">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 🛠️ Tech Stack
+# 🌐 Web Development Journey
 
-### 👨‍💻 Programming Languages
+I'm learning **full-stack web development**, with a current focus on JavaScript and backend development.
+
+### 🎨 Frontend
+
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* React
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+* EJS
+* REST APIs
+
+### 🗄️ Databases
+
+* MySQL
+* MongoDB
+* PostgreSQL
+
+### 🔧 Development Tools
+
+* Git
+* GitHub
+* Linux
+* Docker
+* VS Code
+
+### 🚀 Current Web Development Path
+
+```text
+HTML + CSS
+     ↓
+JavaScript
+     ↓
+Node.js
+     ↓
+Express.js
+     ↓
+EJS
+     ↓
+REST APIs
+     ↓
+Databases
+     ↓
+Full-Stack Projects
+```
+
+---
+
+# 🚀 Projects
+
+## 🗺️ Map Saver
+
+**Status:** 🟡 Planning to Start
+
+Map Saver is a project I am planning to build to save and organize useful locations.
+
+🔗 **Repository:** [Map Saver](https://github.com/MohammedKhais12/MapSaver)
+
+> More projects will be added as I continue learning and building.
+
+---
+
+# 🛠️ Languages & Technologies
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript" />
 </p>
 
-### 🌐 Web Development
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,nodejs,express,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express" />
 </p>
-
-### 🗄️ Databases
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
-### ⚙️ Tools & Technologies
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
 </p>
 
-### 🐍 Python Frameworks
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,django,flask" />
-</p>
-
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedKhais12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedKhais12&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohammedKhais12&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedKhais12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -148,15 +190,7 @@ I'm actively practicing **Data Structures & Algorithms** using C++.
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedKhais12&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedKhais12&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://streak-stats.demolab.com/?user=MohammedKhais12&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -164,52 +198,64 @@ I'm actively practicing **Data Structures & Algorithms** using C++.
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammedKhais12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=MohammedKhais12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
-# 📅 My GitHub Contribution Graph
+# 📂 My Repositories
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedKhais12&custom_title=Mohammed%20Khais%20-%20Contribution%20Graph&theme=tokyo-night&hide_border=true&area=true" />
+
+<a href="https://github.com/MohammedKhais12?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 📂 Repositories
+# 📈 My GitHub Activity
+
+My GitHub profile automatically displays my **contribution activity and contribution graph** based on my commits, pull requests, issues, and other GitHub activity.
 
 <p align="center">
-  <a href="https://github.com/MohammedKhais12?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/MohammedKhais12">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
-> 🚀 More projects will be added as I continue building and learning.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohammed-khais">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>
-  <a href="https://instagram.com/__k_h_a_i_s__">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
-  </a>
-  <a href="mailto:thekhaismohammed12@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-  </a>
-</p>
+<p align="left">
 
-<p align="center">
-  📧 <b>thekhaismohammed12@gmail.com</b>
+<a href="https://linkedin.com/in/mohammed-khais">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/__k_h_a_i_s__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:thekhaismohammed12@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<h3 align="center">💻 Keep Learning • Keep Building • Keep Growing 🚀</h3>
+## 📬 Contact
+
+**Email:** [thekhaismohammed12@gmail.com](mailto:thekhaismohammed12@gmail.com)
+
+---
+
+<h3 align="center">
+  💻 Learn • Build • Solve • Repeat 🚀
+</h3>
 
 <p align="center">
   <i>"Consistency turns learning into skill."</i>
