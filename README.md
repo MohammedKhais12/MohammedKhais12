@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Khais</h1>
 
 <p align="center">
-  <img src="./assets/coding-student.png" alt="Student coding and learning" width="900">
+  <img src="./[assets/coding-student.png](https://github.com/MohammedKhais12/MohammedKhais12/blob/main/ChatGPT%20Image%20Oct%206%2C%202026%2C%2006_09_30%20PM).png" alt="Student coding and learning" width="900">
 </p>
 
 <h3 align="center">
