@@ -190,14 +190,6 @@ Map Saver is a project I am planning to build to save and organize useful locati
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MohammedKhais12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
 # 📂 My Repositories
 
 <p align="center">
