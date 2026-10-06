@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Khais</h1>
 
+<p align="center">
+  <img src="./assets/coding-student.png" alt="Student coding and learning" width="900">
+</p>
+
 <h3 align="center">
   Software Engineer | Web Developer | DSA Enthusiast
 </h3>
@@ -21,7 +25,31 @@ I enjoy solving problems, building applications, and understanding how technolog
 * ⚡ Fun fact: **I'm a deep learner — I like understanding things rather than just memorizing them**
 
 ---
+# 🌐 Connect With Me
 
+<p align="left">
+
+<a href="https://linkedin.com/in/mohammed-khais">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/__k_h_a_i_s__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:thekhaismohammed12@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📬 Contact
+
+**Email:** [thekhaismohammed12@gmail.com](mailto:thekhaismohammed12@gmail.com)
+
+---
 # 🎯 Current Focus
 
 | Area               | Currently Learning           |
@@ -214,31 +242,7 @@ My GitHub profile automatically displays my **contribution activity and contribu
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://linkedin.com/in/mohammed-khais">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/__k_h_a_i_s__">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:thekhaismohammed12@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📬 Contact
-
-**Email:** [thekhaismohammed12@gmail.com](mailto:thekhaismohammed12@gmail.com)
-
----
 
 <h3 align="center">
   💻 Learn • Build • Solve • Repeat 🚀
