@@ -4,11 +4,6 @@
   🚀 Aspiring Software Engineer | Web Developer | DSA Enthusiast
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohammedKhais12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MohammedKhais12?label=Followers&style=for-the-badge" alt="GitHub Followers" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
